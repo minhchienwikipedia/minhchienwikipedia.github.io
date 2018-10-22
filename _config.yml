@@ -1,0 +1,44 @@
+# Site Settings
+title: "Minh Chien Resume"
+description: "Curriculum Vitae of Duong Minh Chien"
+url: 'http://chienduongminh.blogspot.com/'
+baseurl: 'https://minhchienwikipedia.github.io' #change it according to your repository name
+about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+#Profile information
+name: Duong Minh Chien
+tagline: Mobile Developer
+pic: https://github.com/minhchienwikipedia.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I'm a mobile developer, I'm really love develop, it's my hoobie. I'll devost all my exprience to done all my task assigned to me.
+I have more than 2 years of work experience in mobile develop positions. Side by side I love photography. It's help me reduce stress of work."
+
+#sidebar links
+email: minhchienwikipedia@gmail.com
+phone: +84 1646 221 669
+website: chienduongminh.blogspot.com #do not add http://
+linkedin: minhchienwikipedia
+github: minhchienwikipedia
+flickr: duongminhchien
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+#education_in_main: True
+
+# Tracker
+analytics: UA-119187154-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
