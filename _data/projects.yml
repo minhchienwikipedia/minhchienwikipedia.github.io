@@ -1,6 +1,10 @@
 intro: "Side projects."
 projects:
   - project:
+    title: Marketplace TTY
+    link: "#"
+    tagline: "App for ecommerce of Thailand"
+  - project:
     title: Kokosee App
     link: "#"
     tagline: "Social network  to show Vr360 video, sound, image."

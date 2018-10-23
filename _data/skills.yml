@@ -5,13 +5,19 @@
   name: Java
   level: 70%
 - skill:
+  name: Swift
+  level: 50%
+- skill:
   name: React Native
-  level: 95%
+  level: 99%
 - skill:
   name: Javascript
   level: 90%
 - skill:
-  name: MySQL, MS SQL server, Firebase, Mongodb
+  name: Firebase
+  level: 80%
+- skill:
+  name: MySQL, MS SQL server, Mongodb
   level: 80%
 - skill:
   name: HTML5 & CSS
