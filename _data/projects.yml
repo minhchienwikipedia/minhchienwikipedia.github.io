@@ -3,7 +3,7 @@ projects:
 - project:
     title: Equilab 
     link: "https://equilab.horse"
-    tagline: "Track your exercises, created for passionate riders"
+    tagline: "Horse training"
   - project:
     title: Marketplace TTY
     link: "#"
@@ -15,7 +15,7 @@ projects:
   - project:
     title: Graber App (Demo)
     link: "https://www.youtube.com/watch?v=QqakIFnek9k"
-    tagline: "Booking driver realtime."
+    tagline: "Booking driver realtime"
   - project:
     title: Chameleon Ecommerce UI App (Demo)
     link: "#"
@@ -29,7 +29,7 @@ projects:
     link: "#"
     tagline: "House owner find helper, user can set calendar and manage helper."
   - project:
-    title: (Private App)
+    title: Pioneer shipbrokers
     link: "#"
     tagline: "Buy Sell Ship."
   - project:
