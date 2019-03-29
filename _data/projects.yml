@@ -1,5 +1,9 @@
 intro: "Side projects."
 projects:
+- project:
+    title: Equilab 
+    link: "https://equilab.horse"
+    tagline: "Track your exercises, created for passionate riders"
   - project:
     title: Marketplace TTY
     link: "#"
