@@ -1,7 +1,7 @@
 intro: "Side projects."
 projects:
-- project:
-    title: Equilab 
+  - project:
+    title: Equilab
     link: "https://equilab.horse"
     tagline: "Horse training"
   - project:
@@ -15,7 +15,7 @@ projects:
   - project:
     title: Graber App (Demo)
     link: "https://www.youtube.com/watch?v=QqakIFnek9k"
-    tagline: "Booking driver realtime"
+    tagline: "Booking driver realtime."
   - project:
     title: Chameleon Ecommerce UI App (Demo)
     link: "#"
