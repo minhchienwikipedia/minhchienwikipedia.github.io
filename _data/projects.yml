@@ -1,6 +1,10 @@
 intro: "Side projects."
 projects:
   - project:
+    title: JAMJA
+    link: "https://jamja.vn/"
+    tagline: "Application booking for discount "
+  - project:
     title: Equilab
     link: "https://equilab.horse"
     tagline: "Horse training"
