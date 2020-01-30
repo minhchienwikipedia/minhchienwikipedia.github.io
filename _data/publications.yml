@@ -1,2 +1,8 @@
-intro: "Some publications of me."
-publications:
+intro: "Some community activities of me."
+publications: 
+  - paper: Github Community
+    title: <a href='https://github.com/orgs/react-native-vietnam' target='_blank'>React Native Vietnam</a>
+  - paper: Facebook Community
+    title: <a href='https://www.facebook.com/groups/reactnativevietnam/' target='_blank'>React Native Vietnam</a>
+  - paper: Slack Community
+    title: <a href='http://bit.ly/2yeOby4' target='_blank'>React Native Vietnam Slack Channel</a>
