@@ -1,7 +1,7 @@
 {% if site.data.publications %}
 <section class="section publications-section">
 
-  <h2 class="section-title"><i class="fa fa-file-text"></i>Publications</h2>
+  <h2 class="section-title"><i class="fa fa-file-text"></i>Community</h2>
 
   {% if site.data.publications.intro %}
   <div class="intro">
@@ -12,7 +12,7 @@
   {% for publication in site.data.publications.publications %}
     <div class="item">
       <div class="publication-title"><a target="_blank" href="{{ publication.conference }}">{{ publication.title }}</a></div>
-      <div class="publication-authors">{{ publication.authors }}</div>      
+      <div class="publication-authors">{{ publication.info }}</div>      
     </div><!--//item-->
   {% endfor %}
 
