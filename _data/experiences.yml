@@ -2,17 +2,12 @@
   role: Mobile Developer
   time: April 2019 - Present
   company: JAMJA
-  details: "Core developer."
+  details: "Core mobile developer."
 - experience:
   role: Freelancer Developer
   time: Oct 2018 - April 2019
-  company: Freelancer
-  details: "Mobile Developer, Community Administrator: 
-<a href='https://facebook.github.io/react-native/' target='_blank'>React Native</a>
-<br>
-<a href='https://www.facebook.com/groups/reactnativevietnam/' target='_blank'>React Native Vietnam</a>
-<br>
-<a href='http://bit.ly/2yeOby4' target='_blank'>React Native Vietnam Slack Channel</a>"
+  company: Equilab
+  details: "Developer of mobile team."
 - experience:
   role: Mobile Developer
   time: June 2017 - Oct 2018
