@@ -1,8 +1,11 @@
 intro: "Some community activities of me."
 publications: 
-  - title: Github Community
-    info: <a href='https://github.com/orgs/react-native-vietnam' target='_blank'>React Native Vietnam</a>
-  - title: Facebook Community
-    info: <a href='https://www.facebook.com/groups/reactnativevietnam/' target='_blank'>React Native Vietnam</a>
-  - title: Slack Community
-    info: <a href='http://bit.ly/2yeOby4' target='_blank'>React Native Vietnam Slack Channel</a>
+  - title: React Native Vietnam
+    info: Github Community
+    conference: https://github.com/orgs/react-native-vietnam
+  - title: React Native Vietnam
+    info: Facebook Community
+    conference: https://www.facebook.com/groups/reactnativevietnam
+  - title: React Native Vietnam Slack Channel
+    info: Slack Community
+    conference: http://bit.ly/2yeOby4
