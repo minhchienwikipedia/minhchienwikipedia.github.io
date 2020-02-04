@@ -1,6 +1,6 @@
 # Site Settings
-title: "Minh Chien Resume"
-description: "Curriculum Vitae of Duong Minh Chien"
+title: "Minh Chien"
+description: "Resume of Duong Minh Chien"
 url: 'http://chienduongminh.blogspot.com/'
 baseurl: 'https://minhchienwikipedia.github.io' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
