@@ -8,12 +8,9 @@
     {% for skill in site.data.skills %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
+      <h4 class="job-title">{{ skill.name }}: </h4>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
+      <span class="project-tagline">{{ skill.value }}</span>
 
     </div><!--//item-->
     {% endfor %}

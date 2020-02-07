@@ -1,30 +1,12 @@
 - skill:
-  name: Nodejs & Loopbackjs
-  level: 80%
+  name: Programming languages
+  value: Javascript, Nodejs, Java, Swift
 - skill:
-  name: Java
-  level: 70%
+  name: Frameworks
+  value: React Native, Redux, Saga, Sqlite, Realm, Rxjs
 - skill:
-  name: Swift
-  level: 50%
+  name: Data Management
+  value: Firebase, MySQL, MS SQL server, Mongodb
 - skill:
-  name: React Native
-  level: 99%
-- skill:
-  name: Javascript
-  level: 90%
-- skill:
-  name: Firebase
-  level: 80%
-- skill:
-  name: MySQL, MS SQL server, Mongodb
-  level: 80%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Git, Jira, Trello
-  level: 90%
-- skill:
-  name: Sketch & Photoshop
-  level: 95%
+  name: Tools
+  level: Git, GitHub, JIRA, Trello
