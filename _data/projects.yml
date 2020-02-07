@@ -3,40 +3,70 @@ projects:
   - project:
     title: JAMJA
     link: "https://jamja.vn/"
-    tagline: "Application booking for discount "
+    time: April 2019 - Present
+    description: "Application booking for discount, share review."
+    position: "Mobile developer"
+    technologies: "React Native, Python, Firebase, Socket.IO, Elasticsearch"
   - project:
     title: Equilab
     link: "https://equilab.horse"
-    tagline: "Horse training"
+    time: Oct 2018
+    description: "Horse training"
+    position: "Mobile developer"
+    technologies: "React Native, Firebase, Elasticsearch"
   - project:
     title: Marketplace TTY
     link: "#"
-    tagline: "App for ecommerce of Thailand"
+    time: Jan 2018
+    description: "App for ecommerce of Thailand"
+    position: "Mobile developer"
+    technologies: "React Native, PHP, Elasticsearch"
   - project:
     title: Kokosee App
     link: "#"
-    tagline: "Social network  to show Vr360 video, sound, image."
+    time: Nov 2017
+    description: "Social network  to show Vr360 video, sound, image"
+    position: "Mobile developer"
+    technologies: "React Native, Loopback (NodeJS), Socket.IO"
   - project:
     title: Graber App (Demo)
     link: "https://www.youtube.com/watch?v=QqakIFnek9k"
-    tagline: "Booking driver realtime."
+    time: Sep 2017
+    description: "Booking driver realtime"
+    position: "Mobile developer"
+    technologies: "React Native, Socket.IO"
   - project:
     title: NGV Sen Hồng App
     link: "#"
-    tagline: "Helper find work, connect with house owner."
+    time: Jul 2017
+    description: "Helper find work, connect with house owner"
+    position: "Mobile developer"
+    technologies: "React Native, PHP"
   - project:
     title: Sen Hồng App
     link: "#"
-    tagline: "House owner find helper, user can set calendar and manage helper."
+    time: Jul 2017
+    description: "House owner find helper, user can set calendar and manage helper"
+    position: "Mobile developer"
+    technologies: "React Native, PHP"
   - project:
     title: Pioneer shipbrokers
     link: "#"
-    tagline: "Buy Sell Ship."
+    time: Jun 2017
+    description: "Buy Sell Ship"
+    position: "Mobile developer"
+    technologies: "React Native, C#"
   - project:
     title: Suta App (Demo)
     link: "#"
-    tagline: "Suta confidential social Network."
+    time: May 2017
+    description: "Suta confidential social Network"
+    position: "Mobile developer"
+    technologies: "React Native, PHP"
   - project:
     title: Book Tour
     link: "https://www.youtube.com/watch?v=jcO3s8i1Cf0"
-    tagline: "Book Tour."
+    time: 2016
+    description: "Book Tour (Travel)"
+    position: "Mobile developer"
+    technologies: "Java, PHP, MySQL"
