@@ -3,23 +3,66 @@
   time: April 2019 - Present
   company: JAMJA
   details: "Core mobile developer."
+  projects:
+    - project:
+      title: JAMJA
+      link: "https://jamja.vn/"
+      tagline: "Application booking for discount "
 - experience:
   role: Freelancer Developer
   time: Oct 2018 - April 2019
   company: Equilab
   details: "Developer of mobile team."
+  projects:
+    - project:
+      title: Equilab
+      link: "https://equilab.horse"
+      tagline: "Horse training"
 - experience:
   role: Mobile Developer
   time: June 2017 - Oct 2018
   company: Agiletech Viet Nam
   details: "Developer of mobile team."
+  projects:
+    - project:
+      title: Marketplace TTY
+      link: "#"
+      tagline: "App for ecommerce of Thailand"
+    - project:
+      title: Kokosee App
+      link: "#"
+      tagline: "Social network  to show Vr360 video, sound, image."
+    - project:
+      title: Graber App (Demo)
+      link: "https://www.youtube.com/watch?v=QqakIFnek9k"
+      tagline: "Booking driver realtime."
+    - project:
+      title: Chameleon Ecommerce UI App (Demo)
+      link: "#"
+      tagline: "UI App"
+    - project:
+      title: NGV Sen Hồng App
+      link: "#"
+      tagline: "Helper find work, connect with house owner."
+    - project:
+      title: Sen Hồng App
+      link: "#"
+      tagline: "House owner find helper, user can set calendar and manage helper."
+    - project:
+      title: Pioneer shipbrokers
+      link: "#"
+      tagline: "Buy Sell Ship."
 - experience:
   role: Internship Mobile Developer
   time: Sep 2016 - April 2017
   company: Fuji Tech SJC
-  details: "Code & Learn React Native framework for mobile app."
-- experience:
-  role: SEO & Designer
-  time: 2014 - 2016
-  company: SEN VANG Travel
-  details: "This is my part time job when I'm learing in university."
+  details: "Intern developer."
+  projects:
+    - project:
+      title: Suta App (Demo)
+      link: "#"
+      tagline: "Suta confidential social Network."
+    - project:
+      title: Book Tour
+      link: "https://www.youtube.com/watch?v=jcO3s8i1Cf0"
+      tagline: "Book Tour."
