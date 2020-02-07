@@ -31,4 +31,6 @@
   role: Internship Mobile Developer
   time: Sep 2016 - April 2017
   company: Fuji Tech SJC
-  details: "Intern developer."
+  details: 
+    - detail:
+      value: "Intern developer"
