@@ -8,10 +8,11 @@
     {% for skill in site.data.skills %}
     <div class="item">
 
-      <h4 class="job-title">{{ skill.name }}: </h4>
+      <h4 class="skill-name">{{ skill.name }}: </h4>
 
-      <span class="project-tagline">{{ skill.value }}</span>
-
+      <div class="details">
+        <p>{{ skill.value }}</p>
+      </div>
     </div><!--//item-->
     {% endfor %}
 
