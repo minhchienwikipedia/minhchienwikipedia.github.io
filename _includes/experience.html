@@ -21,13 +21,12 @@
     </div>
     <!--//details-->
     {% endif %} 
-    <h4>Projects</h4>
+    <b>Projects:</b>
       {% for project in experience.projects %}
       <div class="item">
         <span class="project-title"
-          ><a href="{{ project.link }}">{{ project.title }}</a></span
+          ><a href="{{ project.link }}">&emsp; - {{ project.title }}</a></span
         >
-
         {% if project.tagline %} -
         <span class="project-tagline">{{ project.tagline }}</span>
         {% endif %}
