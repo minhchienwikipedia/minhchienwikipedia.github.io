@@ -2,17 +2,31 @@
   role: Mobile Developer
   time: April 2019 - Present
   company: JAMJA
-  details: "Core mobile developer."
+  details:
+    - detail:
+      value: Rebuilt almost screen of product application (JAMJA)
+    - detail:
+      value: Upgrade rating of product application (JAMJA) from 3.7 to 4.8 on App Store
+    - detail:
+      value: "Learned <b>Rxjs</b>, <b>Realm</b>, create <b>Native Modules</b> to using in product application"
 - experience:
   role: Freelancer Developer
   time: Oct 2018 - April 2019
   company: Equilab
-  details: "Developer of mobile team."
+  details:
+    - detail:
+      value: Add React Native application in Native application base
+    - detail:
+      value: Using Firebase Admin
+    - detail:
+      value: "Learnd <b>Swift</b>, <b>Java</b> to help create <b>Native Modules</b>"
 - experience:
   role: Mobile Developer
   time: June 2017 - Oct 2018
   company: Agiletech Viet Nam
-  details: "Developer of mobile team."
+  details:
+    - detail:
+      value: "Built 5 projects by <b>React Native</b>"
 - experience:
   role: Internship Mobile Developer
   time: Sep 2016 - April 2017
