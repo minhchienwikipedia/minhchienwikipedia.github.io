@@ -20,18 +20,20 @@
       <p>{{ experience.details }}</p>
     </div>
     <!--//details-->
-    {% endif %} {% for project in experience.projects %}
-    <div class="item">
-      <span class="project-title"
-        ><a href="{{ project.link }}">{{ project.title }}</a></span
-      >
+    {% endif %} 
+    <h4>Projects</h4>
+      {% for project in experience.projects %}
+      <div class="item">
+        <span class="project-title"
+          ><a href="{{ project.link }}">{{ project.title }}</a></span
+        >
 
-      {% if project.tagline %} -
-      <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-    </div>
-    <!--//item-->
-    {% endfor %}
+        {% if project.tagline %} -
+        <span class="project-tagline">{{ project.tagline }}</span>
+        {% endif %}
+      </div>
+      <!--//item-->
+      {% endfor %}
   </div>
   <!--//item-->
   {% endfor %}
