@@ -10,7 +10,7 @@
     - detail:
       value: "Learned <b>Rxjs</b>, <b>Realm</b>, create <b>Native Modules</b> to using in product application"
 - experience:
-  role: Freelancer Developer
+  role: Mobile Developer
   time: Oct 2018 - April 2019
   company: Equilab
   details:
@@ -19,14 +19,18 @@
     - detail:
       value: Using Firebase Admin
     - detail:
-      value: "Learnd <b>Swift</b>, <b>Java</b> to help create <b>Native Modules</b>"
+      value: "Learned <b>Swift</b>, <b>Java</b> to help create <b>Native Modules</b>"
 - experience:
   role: Mobile Developer
   time: June 2017 - Oct 2018
   company: Agiletech Viet Nam
   details:
     - detail:
+      value: "Became a key member of the company"
+    - detail:
       value: "Built 5 projects by <b>React Native</b>"
+    - detail:
+      value: "Get a certificate the developer of the year"
 - experience:
   role: Internship Mobile Developer
   time: Sep 2016 - April 2017
