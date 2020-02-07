@@ -1,6 +1,6 @@
 # Site Settings
-title: "Minh Chien"
-description: "Resume of Duong Minh Chien"
+title: "Chien Duong"
+description: "Resume of Chien Duong"
 url: "http://chienduongminh.blogspot.com/"
 baseurl: "https://minhchienwikipedia.github.io" #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -13,7 +13,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 #style: styles-6
 
 #Profile information
-name: Duong Minh Chien
+name: Chien Duong
 tagline: Mobile Developer, Community Administrator
 pic: https://github.com/minhchienwikipedia.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm a mobile developer, I really love to develop, it's my hobbies. I'll devote all my experience to do all my task assigned to me. I have more than 3 years of work experience in mobile development positions. Side by side I love photography. It's helped me reduce the stress of work."
