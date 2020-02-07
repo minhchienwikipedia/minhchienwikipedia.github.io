@@ -21,9 +21,12 @@
     </div>
     <!--//details-->
     {% endif %} 
-    <b>Projects:</b>
+    <div class="details">
+      <b>Projects:</b>
+    </div>
+    
       {% for project in experience.projects %}
-      <div class="item">
+      <div class="mini-item">
         <span class="project-title"
           ><a href="{{ project.link }}">&emsp; - {{ project.title }}</a></span
         >
