@@ -1,9 +1,16 @@
 intro: "Side projects."
 projects:
   - project:
+    title: MoMo
+    link: "https://momo.vn/"
+    time: Mar 2020 - Present
+    description: "Payment online"
+    position: "Mobile developer"
+    technologies: "React Native, Java, Objective-C, Swift"
+  - project:
     title: JAMJA
     link: "https://jamja.vn/"
-    time: April 2019 - Present
+    time: April 2019 - Feb 2020
     description: "Application booking for discount, share review."
     position: "Mobile developer"
     technologies: "React Native, Python, Firebase, Socket.IO, Elasticsearch"
