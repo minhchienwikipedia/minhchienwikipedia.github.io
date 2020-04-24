@@ -1,6 +1,13 @@
 - experience:
   role: Mobile Developer
-  time: April 2019 - Present
+  time: March 2020 - Present
+  company: MoMo
+  details:
+    - detail:
+      value: Build MiniApp projects for Momo Application
+- experience:
+  role: Mobile Developer
+  time: April 2019 - Feb 2020
   company: JAMJA
   details:
     - detail:
