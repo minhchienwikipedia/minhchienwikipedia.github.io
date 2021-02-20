@@ -5,6 +5,10 @@
   details:
     - detail:
       value: Build MiniApp projects for Momo Application
+    - detail:
+      value: Build game "Học viện MoMo"
+    - detail:
+      value: Build game "Lắc xì 2021"
 - experience:
   role: Mobile Developer
   time: April 2019 - Feb 2020
