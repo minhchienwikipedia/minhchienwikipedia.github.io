@@ -1,0 +1,9 @@
+intro: "This is my personal project. I'm doing everything for my apps, get idea, wireframe, coding frontend & backend."
+projects:
+  - project:
+    title: Been Alone
+    link: "https://apps.apple.com/us/app/been-alone-alone-days-counter/id1550501406"
+    time: Nov 2020 - Feb 2021
+    description: "Alone days counte‪r‬, save diary, connect alone guys. Take 10 days to get top 1 Life-style trending on App Store and get 30k users."
+    position: "Owner"
+    technologies: "React Native, Firebase"

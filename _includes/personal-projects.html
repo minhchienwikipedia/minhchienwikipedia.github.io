@@ -1,0 +1,27 @@
+{% if site.data.personal-projects %}
+<section class="section projects-section">
+
+    <h2 class="section-title"><i class="fa fa-archive"></i>Personal Projects</h2>
+
+    {% if site.data.personal-projects.intro %}
+    <div class="intro">
+        <p>{{ site.data.personal-projects.intro }}</p>
+    </div>
+    <!--//intro-->
+    {% endif %}
+
+    {% for project in site.data.personal-projects.projects %}
+    <div class="item">
+        <div class="upper-row">
+            <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+            <div class="time">{{ project.time }}</div>
+        </div>
+        <div class="company">{{ project.description }}</div>
+
+    </div>
+    <!--//item-->
+    {% endfor %}
+
+</section>
+<!--//section-->
+{% endif %}
