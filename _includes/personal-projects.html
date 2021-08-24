@@ -16,8 +16,16 @@
             <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
             <div class="time">{{ project.time }}</div>
         </div>
-        <div class="company">{{ project.description }}</div>
-
+        <p>{{ project.description }}</p>
+        {% if experience.details %}
+        <div class="details">
+            {% for detail in experience.details %}
+            <p>• {{ detail.value }}</p>
+            {% endfor %}
+        
+        </div>
+        <!--//details-->
+        {% endif %}
     </div>
     <!--//item-->
     {% endfor %}

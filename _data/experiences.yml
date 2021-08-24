@@ -1,14 +1,21 @@
 - experience:
   role: Mobile Developer
-  time: March 2020 - Present
+  time: March 2021 - Present
+  company: Postpay
+  details:
+    - detail:
+      value: Build Postpay application from Zero
+- experience:
+  role: Mobile Developer
+  time: March 2020 - March 2021
   company: MoMo
   details:
     - detail:
       value: Build MiniApp projects for Momo Application
     - detail:
-      value: Build game "Học viện MoMo"
+      value: Build game <b>Học viện MoMo</b>
     - detail:
-      value: Build game "Lắc xì 2021"
+      value: Build game <b>Lắc xì 2021</b>
 - experience:
   role: Mobile Developer
   time: April 2019 - Feb 2020

@@ -2,8 +2,11 @@ intro: "This is my personal project. I'm doing everything for my apps, get idea,
 projects:
   - project:
     title: Been Alone
-    link: "https://apps.apple.com/us/app/been-alone-alone-days-counter/id1550501406"
+    link: "https://www.beenalone.com/"
     time: Nov 2020 - Feb 2021
-    description: "Alone days counte‪r‬, save diary, connect alone guys. Take 10 days to get top 1 Life-style trending on App Store and get 30k users."
-    position: "Owner"
-    technologies: "React Native, Firebase"
+    description: "Application for alone guys, save diary, confession, chat with strangers."
+    details:
+      - detail:
+        value: Take <b>10 days</b> to get <b>Top 1 Life-style</b> trending on App Store and get 30k users.
+      - detail:
+        value: Take <b>~7 months</b> to get <b>100k users</b> with 0$ for marketing
