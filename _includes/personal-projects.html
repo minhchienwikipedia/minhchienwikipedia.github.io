@@ -17,9 +17,9 @@
             <div class="time">{{ project.time }}</div>
         </div>
         <p>{{ project.description }}</p>
-        {% if experience.details %}
+        {% if project.details %}
         <div class="details">
-            {% for detail in experience.details %}
+            {% for detail in project.details %}
             <p>• {{ detail.value }}</p>
             {% endfor %}
         
