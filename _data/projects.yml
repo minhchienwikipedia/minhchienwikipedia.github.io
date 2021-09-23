@@ -1,9 +1,16 @@
 intro: "Side projects."
 projects:
   - project:
+      title: Postpay
+      link: "https://postpay.io/"
+      time: Mar 2020 - Mar 2021
+      description: "Buy now, pay later"
+      position: "Mobile developer"
+      technologies: "React Native"
+  - project:
     title: MoMo
     link: "https://momo.vn/"
-    time: Mar 2020 - Present
+    time: Mar 2020 - Mar 2021
     description: "Payment online"
     position: "Mobile developer"
     technologies: "React Native, Java, Objective-C, Swift"
