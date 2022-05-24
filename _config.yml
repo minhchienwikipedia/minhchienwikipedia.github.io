@@ -16,11 +16,10 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Chien Duong
 tagline: Mobile Developer, Community Administrator
 pic: https://github.com/minhchienwikipedia.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Enthusiastic mobile developer with 4+ years of experience. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard."
+summary: "I'm working as a mobile developer from 2017 until now. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard."
 
 #sidebar links
 email: minhchienwikipedia@gmail.com
-# phone: +84 346 221 669
 website: chienduongminh.blogspot.com #do not add http://
 linkedin: minhchienwikipedia
 github: minhchienwikipedia
@@ -30,7 +29,7 @@ github: minhchienwikipedia
 #education_in_main: True
 
 # Tracker
-analytics: UA-119187154-1
+# analytics: UA-119187154-1
 
 # Build settings
 encoding: "utf-8"
