@@ -15,3 +15,6 @@ projects:
     link: "http://language-king.com/"
     time: Nov 2021 - Jan 2022
     description: "Prove your language knowledge (Game)"
+    details:
+      - detail:
+        value: We have our own data, we create it by ourselves.
