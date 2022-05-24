@@ -11,7 +11,7 @@ projects:
       - detail:
         value: Take <b>~7 months</b> to get <b>100k users</b> with 0$ for marketing
   - project:
-      title: Language King
-      link: "http://language-king.com/"
-      time: Nov 2021 - Jan 2022
-      description: "Prove your language knowledge (Game)"
+    title: Language King
+    link: "http://language-king.com/"
+    time: Nov 2021 - Jan 2022
+    description: "Prove your language knowledge (Game)"
