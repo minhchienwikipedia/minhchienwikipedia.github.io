@@ -29,20 +29,6 @@ projects:
     position: "Mobile developer"
     technologies: "React Native, Firebase, Elasticsearch"
   - project:
-    title: Marketplace TTY
-    link: "#"
-    time: Jan 2018
-    description: "App for ecommerce of Thailand"
-    position: "Mobile developer"
-    technologies: "React Native, PHP, Elasticsearch"
-  - project:
-    title: Kokosee App
-    link: "#"
-    time: Nov 2017
-    description: "Social network  to show Vr360 video, sound, image"
-    position: "Mobile developer"
-    technologies: "React Native, Loopback (NodeJS), Socket.IO"
-  - project:
     title: Graber App (Demo)
     link: "https://www.youtube.com/watch?v=QqakIFnek9k"
     time: Sep 2017
@@ -50,37 +36,9 @@ projects:
     position: "Mobile developer"
     technologies: "React Native, Socket.IO"
   - project:
-    title: NGV Sen Hồng App
-    link: "#"
-    time: Jul 2017
-    description: "Helper find work, connect with house owner"
-    position: "Mobile developer"
-    technologies: "React Native, PHP"
-  - project:
-    title: Sen Hồng App
-    link: "#"
-    time: Jul 2017
-    description: "House owner find helper, user can set calendar and manage helper"
-    position: "Mobile developer"
-    technologies: "React Native, PHP"
-  - project:
     title: Pioneer shipbrokers
     link: "https://play.google.com/store/apps/details?id=com.shipbrokers&hl=en&gl=US"
     time: Jun 2017
     description: "Buy Sell Ship"
     position: "Mobile developer"
     technologies: "React Native, C#"
-  - project:
-    title: Suta App (Demo)
-    link: "#"
-    time: May 2017
-    description: "Suta confidential social Network"
-    position: "Mobile developer"
-    technologies: "React Native, PHP"
-  - project:
-    title: Book Tour
-    link: "https://www.youtube.com/watch?v=jcO3s8i1Cf0"
-    time: 2016
-    description: "Book Tour (Travel)"
-    position: "Mobile developer"
-    technologies: "Java, PHP, MySQL"
