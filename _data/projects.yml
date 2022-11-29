@@ -3,7 +3,7 @@ projects:
   - project:
     title: Postpay
     link: "https://postpay.io/"
-    time: Sep 2020 - Present
+    time: Sep 2020 - November 2022
     description: "Buy now, pay later"
     position: "Mobile developer"
     technologies: "React Native"
