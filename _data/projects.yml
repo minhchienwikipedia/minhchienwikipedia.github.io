@@ -5,40 +5,33 @@ projects:
     link: "https://postpay.io/"
     time: Sep 2020 - November 2022
     description: "Buy now, pay later"
-    position: "Mobile developer"
+    position: "Senior Mobile Engineer"
     technologies: "React Native"
   - project:
     title: MoMo
     link: "https://momo.vn/"
     time: Mar 2020 - Mar 2021
     description: "Payment online"
-    position: "Mobile developer"
+    position: "Senior Mobile Engineer"
     technologies: "React Native, Java, Objective-C, Swift"
   - project:
     title: JAMJA
     link: "https://jamja.vn/"
     time: April 2019 - Feb 2020
     description: "Application booking for discount, share review."
-    position: "Mobile developer"
+    position: "Mobile Engineer"
     technologies: "React Native, Python, Firebase, Socket.IO, Elasticsearch"
   - project:
     title: Equilab
     link: "https://equilab.horse"
     time: Oct 2018
     description: "Horse training"
-    position: "Mobile developer"
+    position: "Mobile Engineer"
     technologies: "React Native, Firebase, Elasticsearch"
-  - project:
-    title: Graber App (Demo)
-    link: "https://www.youtube.com/watch?v=QqakIFnek9k"
-    time: Sep 2017
-    description: "Booking driver realtime"
-    position: "Mobile developer"
-    technologies: "React Native, Socket.IO"
   - project:
     title: Pioneer shipbrokers
     link: "https://play.google.com/store/apps/details?id=com.shipbrokers&hl=en&gl=US"
     time: Jun 2017
     description: "Buy Sell Ship"
-    position: "Mobile developer"
+    position: "Mobile Engineer"
     technologies: "React Native, C#"

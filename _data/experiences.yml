@@ -1,23 +1,34 @@
 - experience:
-  role: Mobile Developer
+  role: Senior Mobile Engineer
   time: March 2021 - November 2022
   company: Postpay
   details:
     - detail:
-      value: Build Postpay application from Zero
+      value: Build the Postpay application from scratch and get great reviews on the store
+    - detail:
+      value: Build the application with best performance and smooth UI, animation
+    - detail:
+      value: Integrate third-party SDK Anyline (for scan customer's ID), CleverTap, Segment (for tracking events and push notifications in the campaign)
+    - detail:
+      value: Setup CI/CD to auto build iOS and Android application and deploy to website.
+    - detail:
+      value: Manage application and review the code of member in the mobile team.
+    - detail:
+      value: Learned GraqhQL, Python, Django
+
 - experience:
-  role: Mobile Developer
+  role: Senior Mobile Engineer
   time: March 2020 - March 2021
   company: MoMo
   details:
     - detail:
-      value: Build MiniApp projects for Momo Application
+      value: Build MiniApp projects for Momo Application and contribute the platform (the main application to manage mini apps)
     - detail:
-      value: Build game <b>Học viện MoMo</b>
+      value: Build game <b>MoMo Academy</b> using Mqtt to have realtime connection
     - detail:
       value: Build game <b>Lắc xì 2021</b>
 - experience:
-  role: Mobile Developer
+  role: Mobile Engineer
   time: April 2019 - Feb 2020
   company: JAMJA
   details:
@@ -28,7 +39,7 @@
     - detail:
       value: "Learned <b>Rxjs</b>, <b>Realm</b>, create <b>Native Modules</b> to using in product application"
 - experience:
-  role: Mobile Developer
+  role: Mobile Engineer
   time: Oct 2018 - April 2019
   company: Equilab
   details:
@@ -39,7 +50,7 @@
     - detail:
       value: "Learned <b>Swift</b>, <b>Java</b> to help create <b>Native Modules</b>"
 - experience:
-  role: Mobile Developer
+  role: Mobile Engineer
   time: June 2017 - Oct 2018
   company: Agiletech Viet Nam
   details:
@@ -50,9 +61,9 @@
     - detail:
       value: "Get a certificate the developer of the year"
 - experience:
-  role: Internship Mobile Developer
+  role: Internship Mobile Engineer
   time: Sep 2016 - April 2017
   company: Fuji Tech SJC
   details: 
     - detail:
-      value: "Intern developer"
+      value: "Intern Mobile Engineer"
