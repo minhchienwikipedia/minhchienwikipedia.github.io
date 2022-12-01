@@ -14,13 +14,13 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 #Profile information
 name: Chien Duong
-tagline: Senior Mobile Engineer, Community Administrator
+tagline: Senior Mobile Engineer
 pic: https://github.com/minhchienwikipedia.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "I'm working as a mobile engineer from 2017 until now. Ability to self-study new technologies, eager to learn something new. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I have experience working in the product company, able to withstand stress with work hard."
 
 #sidebar links
 email: minhchienwikipedia@gmail.com
-website: chienduongminh.blogspot.com #do not add http://
+# website: chienduongminh.blogspot.com #do not add http://
 linkedin: minhchienwikipedia
 github: minhchienwikipedia
 #Update all the sections by editing the files inside _data folder.
