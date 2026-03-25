@@ -1,0 +1,402 @@
+{
+  "personalInfo": {
+    "name": "Chien Duong",
+    "title": "Product Owner & Full-stack Engineer",
+    "email": "minhchienwikipedia@gmail.com",
+    "location": "Hanoi, Vietnam",
+    "links": [
+      {
+        "name": "Twitter",
+        "url": "https://x.com/minhchienwiki",
+        "icon": "Twitter"
+      },
+      {
+        "name": "GitHub",
+        "url": "http://github.com/minhchienwikipedia",
+        "icon": "Github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/minhchienwikipedia",
+        "icon": "Linkedin"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:minhchienwikipedia@gmail.com",
+        "icon": "Mail"
+      }
+    ]
+  },
+  "profile": "I am passionate about building products. I put myself in the shoes of a demanding customer when using my own product, always aiming to deliver the best experience for users. That’s why I leverage my experience and continuously learn new things to contribute to every product I work on.",
+  "experiences": [
+    {
+      "company": "ONUS",
+      "type": "Full-Time",
+      "totalPeriod": "October 2025 - Present",
+      "positions": [
+        {
+          "title": "Senior Mobile Engineer",
+          "period": "October 2025 - Present",
+          "responsibilities": [
+            "Setup Super App from scratch",
+            "Build ONUS v2 mobile application",
+            "Refactor the codebase to improve the performance and maintainability"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Oraichain Labs",
+      "type": "Full-Time",
+      "totalPeriod": "Feb 2023 - October 2025",
+      "positions": [
+        {
+          "title": "Product Owner",
+          "period": "Sep 2023 - October 2025",
+          "responsibilities": [
+            "Responsible for product vision, strategy, and roadmap",
+            "Create document for the product, including user flow, wireframe, and technical design",
+            "Manage the mobile team and the backend team, deliver the product on time",
+            "Worked closely with the marketing team to launch the product and growth users, revenue",
+            "Worked closely with the design team and sometimes create UI/UX by myself"
+          ]
+        },
+        {
+          "title": "Full-stack Developer",
+          "period": "May 2023 - October 2025",
+          "responsibilities": [
+            "Build Backend app from scratch, setup microservices architecture",
+            "Developed and maintained full-stack applications using TypeScript, NestJS, and PostgreSQL",
+            "Contributed to the design and implementation of new features and improvements",
+            "Setup CI/CD to auto build and deploy the application"
+          ]
+        },
+        {
+          "title": "Senior Mobile Engineer",
+          "period": "Feb 2023 - October 2025",
+          "responsibilities": [
+            "Build the Oraichain application from scratch and manage the mobile team",
+            "Integrate blockchain and AI to the application",
+            "Led the development of mobile applications using React Native",
+            "Worked closely with the backend team to integrate APIs and ensure seamless user experiences"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Postpay",
+      "type": "Full-Time",
+      "totalPeriod": "March 2021 - November 2022",
+      "positions": [
+        {
+          "title": "Senior Mobile Engineer",
+          "period": "March 2021 - November 2022",
+          "responsibilities": [
+            "Build the Postpay application from scratch and get great reviews on the store",
+            "Build the application with best performance and smooth UI, animation",
+            "Integrate third-party SDK Anyline (for scan customer's ID), CleverTap, Segment (for tracking events and push notifications in the campaign)",
+            "Setup CI/CD to auto build iOS and Android application and deploy to website",
+            "Manage application and review the code of member in the mobile team"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "MoMo (M_service)",
+      "type": "Full-Time",
+      "totalPeriod": "March 2020 - March 2021",
+      "positions": [
+        {
+          "title": "Senior Mobile Engineer",
+          "period": "March 2020 - March 2021",
+          "responsibilities": [
+            "Build Mini apps projects for Momo Application and contribute the platform (the main application to manage mini apps)",
+            "Build game MoMo Academy - Real-time game using MQTT technology",
+            "Build game Lắc xì 2021"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "JAMJA",
+      "type": "Full-Time",
+      "totalPeriod": "April 2019 - Feb 2020",
+      "positions": [
+        {
+          "title": "Mobile Engineer",
+          "period": "April 2019 - Feb 2020",
+          "responsibilities": [
+            "Rebuilt almost screen of product application (JAMJA)",
+            "Upgrade rating of product application (JAMJA) from 3.7 to 4.8 on App Store",
+            "Learned Rxjs, Realm, create Native Modules to using in product application"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Equilab Ab",
+      "type": "Full-Time",
+      "totalPeriod": "Oct 2018 - April 2019",
+      "positions": [
+        {
+          "title": "Mobile Engineer",
+          "period": "Oct 2018 - April 2019",
+          "responsibilities": [
+            "Add React Native application in Native application base",
+            "Using Firebase Admin",
+            "Learned Swift, Java to help create Native Modules"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Agiletech Viet Nam",
+      "type": "Full-Time",
+      "totalPeriod": "June 2017 - Oct 2018",
+      "positions": [
+        {
+          "title": "Mobile Engineer",
+          "period": "June 2017 - Oct 2018",
+          "responsibilities": [
+            "Became a key member of the company",
+            "Built 5 projects by React Native",
+            "Get a certificate the developer of the year"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Fuji Tech SJC",
+      "type": "Internship - Full-Time",
+      "totalPeriod": "Sep 2016 - April 2017",
+      "positions": [
+        {
+          "title": "Internship Mobile Engineer",
+          "period": "Sep 2016 - April 2017",
+          "responsibilities": [
+            "Intern Mobile Engineer",
+            "Developed a mobile application for reading comics using React Native, PHP, and MySQL",
+            "Contributed to the frontend and backend development"
+          ]
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ONUS",
+      "url": "https://goonus.io/",
+      "period": "October 2025 - Present",
+      "description": "The exchange platform for buying and selling crypto currency.",
+      "techStack": ["React Native", "TypeScript"],
+      "company": "ONUS"
+    },
+    {
+      "name": "LFG!!!",
+      "url": "https://lfg.land/",
+      "period": "Jan 2025 - Present",
+      "description": "Secure & Instant Crypto - Buy, Sell, Swap, and Earn Crypto with ease",
+      "achievements": [
+        "Build the LFG!!! application from scratch in 1 month",
+        "Achieve 2M Volume trading in Prediction (Future)",
+        "20k users in 3 months"
+      ],
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "AWS",
+        "Blockchain"
+      ],
+      "company": "Oraichain Labs"
+    },
+    {
+      "name": "Cupiee",
+      "url": "https://cupiee.com/",
+      "period": "May 2023 - Dec 2024",
+      "description": "Emotional AI Companion - Relieve your emotions with the world's first emotional AI Companion  - on Web3",
+      "achievements": ["Achieve +500k users", "Keep daily active users at 50k"],
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "AWS",
+        "Firebase",
+        "Blockchain",
+        "AI"
+      ],
+      "company": "Oraichain Labs"
+    },
+    {
+      "name": "Postpay",
+      "url": "https://postpay.io/",
+      "period": "Sep 2020 - November 2022",
+      "description": "Buy now, pay later",
+      "techStack": ["React Native", "GraphQL", "Firebase"],
+      "company": "Postpay"
+    },
+    {
+      "name": "MoMo",
+      "url": "https://momo.vn/",
+      "period": "Mar 2020 - Mar 2021",
+      "description": "Payment online",
+      "techStack": ["React Native", "TypeScript", "Swift", "Java"],
+      "company": "MoMo (M_service)"
+    },
+    {
+      "name": "JAMJA",
+      "url": "https://jamja.vn/",
+      "period": "April 2019 - Feb 2020",
+      "description": "Application booking for discount, share review.",
+      "techStack": ["React Native", "Firebase", "Swift", "Java"],
+      "company": "JAMJA"
+    },
+    {
+      "name": "Equilab",
+      "url": "https://equilab.horse",
+      "period": "Oct 2018",
+      "description": "Horse training",
+      "techStack": ["React Native", "Swift", "Java", "Firebase"],
+      "company": "MoMo (M_service)"
+    },
+    {
+      "name": "Pioneer shipbrokers",
+      "url": "https://play.google.com/store/apps/details?id=com.shipbrokers&hl=en&gl=US",
+      "period": "Jun 2017",
+      "description": "Buy Sell Ship",
+      "techStack": ["React Native"],
+      "company": "Agiletech Viet Nam"
+    }
+  ],
+  "descriptionPersonalProjects": "This is my personal projects. I'm doing everything for my apps, get idea, wireframe, coding frontend & backend.",
+  "personalProjects": [
+    {
+      "name": "LocknLearn",
+      "url": "https://locknlearn.app/",
+      "period": "Jan 2026 - Present",
+      "description": "The application to help you learn new skills and knowledge by locking your phone for a certain amount of time.",
+      "techStack": [
+        "Swift",
+        "React Native",
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Been Alone",
+      "url": "https://beenalone.com/",
+      "period": "Nov 2020 - Present",
+      "description": "Application for alone guys, save diary, confession, chat with strangers.",
+      "achievements": [
+        "Take 10 days to get Top 1 Life-style trending on App Store and get 30k users.",
+        "Take ~7 months to get 100k users with 0$ for marketing",
+        "Achieve +500k users",
+        "Get revenue from App Store, Google Play, and Admob"
+      ],
+      "techStack": [
+        "React Native",
+        "TypeScript",
+        "NestJS",
+        "PostgreSQL",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Language King",
+      "url": "http://language-king.com/",
+      "period": "Nov 2021 - Jan 2022",
+      "description": "Prove your language knowledge (Game)",
+      "achievements": ["Achieve +11k users", "Get revenue from Admob"],
+      "techStack": ["React Native", "Firebase"]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": [
+      "Javascript",
+      "TypeScript",
+      "Nodejs",
+      "Java",
+      "Swift"
+    ],
+    "frameworks": [
+      "React Native",
+      "Redux",
+      "Saga",
+      "Sqlite",
+      "Realm",
+      "Rxjs",
+      "NestJS",
+      "GraphQL"
+    ],
+    "dataManagement": [
+      "Firebase",
+      "MySQL",
+      "MS SQL server",
+      "Mongodb",
+      "PostgreSQL"
+    ],
+    "tools": [
+      "AWS",
+      "Cloudflare",
+      "Figma",
+      "Git",
+      "GitHub",
+      "JIRA",
+      "Trello",
+      "Docker",
+      "Notion"
+    ],
+    "coreCompetencies": [
+      "Mobile Application Development",
+      "Full-Stack Development",
+      "UI/UX Implementation",
+      "CI/CD Implementation",
+      "Third-party SDK Integration",
+      "Product Management",
+      "Blockchain Integration",
+      "AI Integration"
+    ]
+  },
+  "education": [
+    {
+      "degree": "Engineering degree - Information Technology",
+      "institution": "Hanoi Open University",
+      "period": "2013 - 2017",
+      "achievements": [
+        "Achieve scholarship promotes learning",
+        "GPA: 10/10 - Mobile app development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Normal"
+    }
+  ],
+  "community": [
+    {
+      "role": "Admin at React Native Vietnam",
+      "platform": "Facebook Community",
+      "url": "https://www.facebook.com/groups/reactnativevietnam"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "icon": "Camera"
+    },
+    {
+      "name": "Music",
+      "icon": "Music"
+    },
+    {
+      "name": "Travelling",
+      "icon": "Plane"
+    }
+  ]
+}
