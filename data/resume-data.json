@@ -32,11 +32,11 @@
     {
       "company": "ONUS",
       "type": "Full-Time",
-      "totalPeriod": "October 2025 - Present",
+      "totalPeriod": "Oct 2025 - Apr 2026",
       "positions": [
         {
           "title": "Senior Mobile Engineer",
-          "period": "October 2025 - Present",
+          "period": "Oct 2025 - Apr 2026",
           "responsibilities": [
             "Setup Super App from scratch",
             "Build ONUS v2 mobile application",
@@ -48,11 +48,11 @@
     {
       "company": "Oraichain Labs",
       "type": "Full-Time",
-      "totalPeriod": "Feb 2023 - October 2025",
+      "totalPeriod": "Feb 2023 - Oct 2025",
       "positions": [
         {
           "title": "Product Owner",
-          "period": "Sep 2023 - October 2025",
+          "period": "Sep 2023 - Oct 2025",
           "responsibilities": [
             "Responsible for product vision, strategy, and roadmap",
             "Create document for the product, including user flow, wireframe, and technical design",
@@ -63,7 +63,7 @@
         },
         {
           "title": "Full-stack Developer",
-          "period": "May 2023 - October 2025",
+          "period": "May 2023 - Oct 2025",
           "responsibilities": [
             "Build Backend app from scratch, setup microservices architecture",
             "Developed and maintained full-stack applications using TypeScript, NestJS, and PostgreSQL",
@@ -73,7 +73,7 @@
         },
         {
           "title": "Senior Mobile Engineer",
-          "period": "Feb 2023 - October 2025",
+          "period": "Feb 2023 - Oct 2025",
           "responsibilities": [
             "Build the Oraichain application from scratch and manage the mobile team",
             "Integrate blockchain and AI to the application",
@@ -86,11 +86,11 @@
     {
       "company": "Postpay",
       "type": "Full-Time",
-      "totalPeriod": "March 2021 - November 2022",
+      "totalPeriod": "Mar 2021 - Nov 2022",
       "positions": [
         {
           "title": "Senior Mobile Engineer",
-          "period": "March 2021 - November 2022",
+          "period": "Mar 2021 - Nov 2022",
           "responsibilities": [
             "Build the Postpay application from scratch and get great reviews on the store",
             "Build the application with best performance and smooth UI, animation",
@@ -104,11 +104,11 @@
     {
       "company": "MoMo (M_service)",
       "type": "Full-Time",
-      "totalPeriod": "March 2020 - March 2021",
+      "totalPeriod": "Mar 2020 - Mar 2021",
       "positions": [
         {
           "title": "Senior Mobile Engineer",
-          "period": "March 2020 - March 2021",
+          "period": "Mar 2020 - Mar 2021",
           "responsibilities": [
             "Build Mini apps projects for Momo Application and contribute the platform (the main application to manage mini apps)",
             "Build game MoMo Academy - Real-time game using MQTT technology",
@@ -120,11 +120,11 @@
     {
       "company": "JAMJA",
       "type": "Full-Time",
-      "totalPeriod": "April 2019 - Feb 2020",
+      "totalPeriod": "Apr 2019 - Feb 2020",
       "positions": [
         {
           "title": "Mobile Engineer",
-          "period": "April 2019 - Feb 2020",
+          "period": "Apr 2019 - Feb 2020",
           "responsibilities": [
             "Rebuilt almost screen of product application (JAMJA)",
             "Upgrade rating of product application (JAMJA) from 3.7 to 4.8 on App Store",
@@ -136,11 +136,11 @@
     {
       "company": "Equilab Ab",
       "type": "Full-Time",
-      "totalPeriod": "Oct 2018 - April 2019",
+      "totalPeriod": "Oct 2018 - Apr 2019",
       "positions": [
         {
           "title": "Mobile Engineer",
-          "period": "Oct 2018 - April 2019",
+          "period": "Oct 2018 - Apr 2019",
           "responsibilities": [
             "Add React Native application in Native application base",
             "Using Firebase Admin",
@@ -152,11 +152,11 @@
     {
       "company": "Agiletech Viet Nam",
       "type": "Full-Time",
-      "totalPeriod": "June 2017 - Oct 2018",
+      "totalPeriod": "Jun 2017 - Oct 2018",
       "positions": [
         {
           "title": "Mobile Engineer",
-          "period": "June 2017 - Oct 2018",
+          "period": "Jun 2017 - Oct 2018",
           "responsibilities": [
             "Became a key member of the company",
             "Built 5 projects by React Native",
@@ -168,11 +168,11 @@
     {
       "company": "Fuji Tech SJC",
       "type": "Internship - Full-Time",
-      "totalPeriod": "Sep 2016 - April 2017",
+      "totalPeriod": "Sep 2016 - Apr 2017",
       "positions": [
         {
           "title": "Internship Mobile Engineer",
-          "period": "Sep 2016 - April 2017",
+          "period": "Sep 2016 - Apr 2017",
           "responsibilities": [
             "Intern Mobile Engineer",
             "Developed a mobile application for reading comics using React Native, PHP, and MySQL",
@@ -186,7 +186,7 @@
     {
       "name": "ONUS",
       "url": "https://goonus.io/",
-      "period": "October 2025 - Present",
+      "period": "Oct 2025 - Apr 2026",
       "description": "The exchange platform for buying and selling crypto currency.",
       "techStack": ["React Native", "TypeScript"],
       "company": "ONUS"
@@ -194,7 +194,7 @@
     {
       "name": "LFG!!!",
       "url": "https://lfg.land/",
-      "period": "Jan 2025 - Present",
+      "period": "Jan 2025 - Oct 2025",
       "description": "Secure & Instant Crypto - Buy, Sell, Swap, and Earn Crypto with ease",
       "achievements": [
         "Build the LFG!!! application from scratch in 1 month",
@@ -232,7 +232,7 @@
     {
       "name": "Postpay",
       "url": "https://postpay.io/",
-      "period": "Sep 2020 - November 2022",
+      "period": "Sep 2020 - Nov 2022",
       "description": "Buy now, pay later",
       "techStack": ["React Native", "GraphQL", "Firebase"],
       "company": "Postpay"
@@ -248,7 +248,7 @@
     {
       "name": "JAMJA",
       "url": "https://jamja.vn/",
-      "period": "April 2019 - Feb 2020",
+      "period": "Apr 2019 - Feb 2020",
       "description": "Application booking for discount, share review.",
       "techStack": ["React Native", "Firebase", "Swift", "Java"],
       "company": "JAMJA"
