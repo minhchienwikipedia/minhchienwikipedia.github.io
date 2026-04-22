@@ -188,7 +188,7 @@
       "url": "https://goonus.io/",
       "period": "Oct 2025 - Apr 2026",
       "description": "The exchange platform for buying and selling crypto currency.",
-      "techStack": ["React Native", "TypeScript"],
+      "techStack": ["React Native", "TypeScript", "Swift", "Kotlin", "Java"],
       "company": "ONUS"
     },
     {
@@ -225,7 +225,10 @@
         "AWS",
         "Firebase",
         "Blockchain",
-        "AI"
+        "AI",
+        "Swift",
+        "Java",
+        "Kotlin"
       ],
       "company": "Oraichain Labs"
     },
@@ -302,7 +305,9 @@
         "TypeScript",
         "NestJS",
         "PostgreSQL",
-        "Firebase"
+        "Firebase",
+        "Swift",
+        "Java"
       ]
     },
     {
@@ -320,7 +325,8 @@
       "TypeScript",
       "Nodejs",
       "Java",
-      "Swift"
+      "Swift",
+      "Kotlin"
     ],
     "frameworks": [
       "React Native",
